@@ -1,4 +1,4 @@
-### Hi there, I'm Alex 👋
+### Hi there, I'm [Alex!](https://www.linkedin.com/in/alexanderselling/) 👋
 
 I love building things and solving problems that matter
 
@@ -19,9 +19,5 @@ I co-founded [iControl](https://icontrolapp.se/en) with [Anton Fagerberg](https:
 Public iControl stuff I've built:
 - [The iOS app](https://apps.apple.com/se/app/icontrol/id960717076?l=en) written in swift using the VIPER pattern and CouchbaseLite for offline persistence & sync
 
-
-#### ☕️ Wanna chat?
-👉  hit me up on [linkedin!](https://www.linkedin.com/in/alexanderselling/)
-
-
+#### GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=sellingsolutions&show_icons=true&theme=dracula&count_private=true&hide=prs,stars)
