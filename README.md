@@ -4,9 +4,10 @@ I love building things and solving problems that matter
 
 #### Currently working on iSpect, an app for building inspectors 👷‍♂️ 
 
-iSpect stuff I've built so far:
+iSpect stuff I've built:
 - A simple [reporting tool](https://aterrapportering.stage.ispectapp.se/?token=ZGFtaWFuX2N6dWJhX2ptX3NlX19pcmVwb3J0bGl0ZV90b2tlbg%3D%3D&p=project_1519207592_dbdd0937-5d39-4896-9643-679536ebb2d6&f=) for construction companies
-- A customer portal 
+- [A Customer Portal](https://portal.ispectapp.se/login)
+- [An iOS app](https://apps.apple.com/se/app/ispect/id905912432)
 
 #### Previously
 
