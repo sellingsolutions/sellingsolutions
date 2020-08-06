@@ -13,9 +13,10 @@ iSpect stuff I've built:
 
 I've helped co-found Buildcraft - an iPaaS for Construction; together with [Joachim Wester](https://github.com/Starcounter-Jack) and [Anton Fagerberg](https://www.linkedin.com/in/aejfager/)
 
-I'm also the founder of [iControl](https://icontrolapp.se/en), an app that replaces paper reports with a mobile app at construction sites.
+I'm also the founder of [iControl](https://icontrolapp.se/en), an app that replaces paper reports with a mobile app at construction sites. iControl is a [500 Startups](https://500.co/) alumni - Batch 19.
 
-iControl is a [500 Startups](https://500.co/) alumni - Batch 19.
+iControl stuff I've built:
+- [The iOS app](https://apps.apple.com/se/app/icontrol/id960717076?l=en)
 
 
 #### ☕️ Wanna chat?
