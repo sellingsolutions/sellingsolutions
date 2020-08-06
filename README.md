@@ -1,4 +1,4 @@
-### Hi there, I'm [Alex!](https://www.linkedin.com/in/alexanderselling/) 👋
+### Hi there, I'm [Alex!](https://www.linkedin.com/in/alexanderselling/) <img src="https://raw.githubusercontent.com/sellingsolutions/sellingsolutions/master/wave.gif" width="30px">
 
 I love building things and solving problems that matter
 
