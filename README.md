@@ -10,10 +10,10 @@ Public iSpect stuff I've built:
 - [An iOS app](https://apps.apple.com/se/app/ispect/id905912432)
 
 #### Buildcraft - an App Store for Construction
-I've helped co-found Buildcraft - an iPaaS for Construction; together with [Joachim Wester](https://github.com/Starcounter-Jack) and [Anton Fagerberg](https://www.linkedin.com/in/aejfager/) using the [Starcounter Platform](https://starcounter.com/)
+I've helped co-found Buildcraft in 2018 - an iPaaS for Construction; together with [Joachim Wester](https://github.com/Starcounter-Jack) and [Anton Fagerberg](https://www.linkedin.com/in/aejfager/) using the [Starcounter Platform](https://starcounter.com/)
 
 #### iControl - Replaces paper reports with a mobile app at construction sites
-I'm also the founder of [iControl](https://icontrolapp.se/en) which is a [500 Startups](https://500.co/) alumni - Batch 19.
+I founded [iControl](https://icontrolapp.se/en) in 2015 which is a [500 Startups](https://500.co/) alumni - Batch 19.
 
 Public iControl stuff I've built:
 - [The iOS app](https://apps.apple.com/se/app/icontrol/id960717076?l=en)
