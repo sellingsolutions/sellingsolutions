@@ -24,4 +24,4 @@ Public iControl stuff I've built:
 👉  hit me up on [linkedin!](https://www.linkedin.com/in/alexanderselling/)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sellingsolutions&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=sellingsolutions&show_icons=true&theme=radical&count_private=true)
