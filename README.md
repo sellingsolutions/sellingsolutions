@@ -25,4 +25,3 @@ Public iControl stuff I've built:
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sellingsolutions&show_icons=true&theme=dracula&count_private=true&hide=prs,stars)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sellingsolutions&layout=compact&hide=java,c%2B%2B,python)](https://github.com/anuraghazra/github-readme-stats)
