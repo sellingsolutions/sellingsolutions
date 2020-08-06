@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Visits Badge](https://badges.pufler.dev/visits/sellingsolutions/sellingsolutions)](https://badges.pufler.dev)
+
 <!--
 **sellingsolutions/sellingsolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
