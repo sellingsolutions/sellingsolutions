@@ -1,7 +1,7 @@
 ### Hi there, I'm [Alex!](https://www.linkedin.com/in/alexanderselling/) <img src="https://raw.githubusercontent.com/sellingsolutions/sellingsolutions/master/wave.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alexander%20Selling-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexanderselling/)](https://www.linkedin.com/in/alexanderselling/) 
-[![Gmail Badge](https://img.shields.io/badge/-alexander@ispect.se-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexander@besiktningsman.se)](mailto:alexander@besiktningsman.se)
+[![Gmail Badge](https://img.shields.io/badge/-alexander@ispect.se-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexander@ispect.se)](mailto:alexander@besiktningsman.se)
 
 I love building things and solving problems that matter
 
