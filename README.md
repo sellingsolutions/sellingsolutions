@@ -25,6 +25,6 @@ Public iControl stuff I've built:
 #### GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=sellingsolutions&show_icons=true&theme=dracula&count_private=true&hide=prs,stars)
 ![Langauges](https://github.com/sellingsolutions/github-stats/blob/master/generated/languages.svg)
+![Overview](https://github.com/sellingsolutions/github-stats/blob/master/generated/overview.svg)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=sellingsolutions.sellingsolutions)
 
