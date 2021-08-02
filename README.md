@@ -13,10 +13,10 @@ Public iSpect stuff I've built:
 - [An iOS app](https://apps.apple.com/se/app/ispect/id905912432) written in good old objc using CouchbaseLite for offline persistence & sync
 
 #### Buildcraft - an App Store for Construction
-I helped co-found Buildcraft and raising a $100k seed round in 2018 - an iPaaS for Construction; together with [Joachim Wester](https://github.com/Starcounter-Jack) and [Anton Fagerberg](https://www.linkedin.com/in/aejfager/) using the [Starcounter Platform](https://starcounter.com/)
+I helped co-found Buildcraft, raising a $100k seed round in 2018 - an iPaaS for Construction; together with [Joachim Wester](https://github.com/Starcounter-Jack) and [Anton Fagerberg](https://www.linkedin.com/in/aejfager/) using the [Starcounter Platform](https://starcounter.com/)
 
 #### iControl - Replaces paper reports with a mobile app at construction sites
-I co-founded [iControl](https://icontrolapp.se/en) and raised a $150k seed round in 2017 with [Anton Fagerberg](https://www.linkedin.com/in/aejfager/). We are [500 Startups](https://500.co/) alumnis from Batch 19.
+I co-founded [iControl](https://icontrolapp.se/en) and raised a $150k seed round in 2017, doing $60k MRR. We are [500 Startups](https://500.co/) alumnis from Batch 19.
 
 Public iControl stuff I've built:
 - [The iOS app](https://apps.apple.com/se/app/icontrol/id960717076?l=en) written in swift using the VIPER pattern and CouchbaseLite for offline persistence & sync
