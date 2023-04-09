@@ -2,9 +2,23 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alexander%20Selling-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexanderselling/)](https://www.linkedin.com/in/alexanderselling/) 
 
-I love building things and solving problems that matter
+I'm a **fullstack developer** from Stockholm, Sweden.
 
-#### Currently working on [iSpect](https://ispect.se?lang=en), enabling construction companies to gain actionable insights from their projects 👷‍♂️ 
+These days I'm mostly working with node, react, dotnet core and vue, but I have been building iOS apps since 2011.
+I love being in the intersection between technology and business strategy, which is why I've started 3 companies, each time to create something truly meaningful to others.  
+
+### I'm currently working at [Heads](https://heads.com/) as a Senior Software Engineer.
+Heads builds retail software, similar to Square Pay. My responsibilities include building and maintaining the react frontend, node backend and the Heads POS iOS app.  
+
+### My main contributions to Heads
+- The company website [heads.com](https://heads.com/) (Astro)
+- The Heads Design System (React)
+- The Heads POS app (iOS)
+  
+#### Machine Learning Project
+I'm currently working on a prototype Sales Prediction Engine capable of forecasting product demand, such as Coke sales for the next two weeks, enabling data-driven re-stocking automation and optimizing inventory management.
+
+#### [iSpect](https://ispect.se?lang=en) - enabling construction companies to gain actionable insights from their projects 👷‍♂️ 
 
 Public iSpect stuff I've built:
 - The backend consisting of [dotnore-core](https://github.com/dotnet/core), [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet), [Couchbase](https://www.couchbase.com/), [Postmark](https://postmarkapp.com/), [Puppeteer](https://www.puppeteersharp.com/), [Accounting-Integration](https://www.accounting.pe/), [Microsoft Graph Api-Integration](https://docs.microsoft.com/en-us/graph/outlook-calendar-concept-overview), [BankID-integration](https://www.bankid.com/en)
@@ -15,8 +29,8 @@ Public iSpect stuff I've built:
 #### Buildcraft - an App Store for Construction
 I helped co-found Buildcraft, raising a $100k seed round in 2018 - an iPaaS for Construction; together with [Joachim Wester](https://github.com/Starcounter-Jack) and [Anton Fagerberg](https://www.linkedin.com/in/aejfager/) using the [Starcounter Platform](https://starcounter.com/)
 
-#### iControl - Replaces paper reports with a mobile app at construction sites
-I co-founded [iControl](https://icontrolapp.se/en) and raised a $150k seed round in 2017, doing $60k MRR. We are [500 Startups](https://500.co/) alumnis from Batch 19.
+#### [iControl](https://icontrolapp.se/en) - Replaces paper reports with a mobile app at construction sites
+I co-founded iControl and raised a $150k seed round in 2017, doing $60k MRR. We are [500 Startups](https://500.co/) alumnis from Batch 19.
 
 Public iControl stuff I've built:
 - [The iOS app](https://apps.apple.com/se/app/icontrol/id960717076?l=en) written in swift using the VIPER pattern and CouchbaseLite for offline persistence & sync
