@@ -12,10 +12,10 @@ Natural Cycles is an ovulation tracker that serves both as a birth control and a
 
 My main responsibility is to scale the payments infrastructure to handle millions of transactions
 
-### I previously worked at [Heads](https://heads.com/) as a Senior Software Engineer.
+#### I previously worked at [Heads](https://heads.com/) as a Senior Software Engineer.
 Heads builds retail software, similar to Square Pay. My responsibilities include building and maintaining the react frontend, node backend and the Heads POS iOS app.  
 
-### My main contributions to Heads
+#### My main contributions to Heads
 - The company website [heads.com](https://heads.com/) (Astro)
 - The Heads Design System (React)
 - The Heads POS app (iOS)
