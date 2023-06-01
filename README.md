@@ -4,10 +4,15 @@
 
 I'm a **fullstack developer** from Stockholm, Sweden.
 
-These days I'm mostly working with node, react, dotnet core and vue, but I have been building iOS apps since 2011.
+These days I'm mostly working with node, react, angular, dotnet core and vue, but I have been building iOS apps since 2011.
 I love being in the intersection between technology and business strategy, which is why I've started 3 companies, each time to create something truly meaningful to others.  
 
-### I'm currently working at [Heads](https://heads.com/) as a Senior Software Engineer.
+### I'm currently working at [Natural Cycles](https://naturalcycles.com) as a Senior Fullstack Engineer
+Natural Cycles is an ovulation tracker that serves both as a birth control and a fertility planner.
+
+My main responsibility is to scale the payments infrastructure to handle millions of transactions
+
+### I previously worked at [Heads](https://heads.com/) as a Senior Software Engineer.
 Heads builds retail software, similar to Square Pay. My responsibilities include building and maintaining the react frontend, node backend and the Heads POS iOS app.  
 
 ### My main contributions to Heads
