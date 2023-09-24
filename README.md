@@ -10,7 +10,7 @@ I love being in the intersection between technology and business strategy, which
 ### I'm currently working at [Natural Cycles](https://naturalcycles.com) as a Senior Fullstack Engineer
 Natural Cycles is the world's first FDA cleared birth control app. It tracks your cycle with a thermometer and uses an algorithm to predict your ovulation and fertile window.
 
-#### My role in the Product Growth Team
+### My role in the Product Growth Team
 My main priority is to reduce the subscription renewal failure rates from 28% to 10% by optimizing the Braintree payment integration. Additionally, I am working on improving the signup experience to boost conversion.
 
 #### I previously worked at [Heads](https://heads.com/) as a Senior Software Engineer.
