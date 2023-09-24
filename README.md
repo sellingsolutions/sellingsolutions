@@ -8,9 +8,10 @@ These days I'm mostly working with node, react, angular, dotnet core and vue, bu
 I love being in the intersection between technology and business strategy, which is why I've started 3 companies, each time to create something truly meaningful to others.  
 
 ### I'm currently working at [Natural Cycles](https://naturalcycles.com) as a Senior Fullstack Engineer
-Natural Cycles is an ovulation tracker that serves both as a birth control and a fertility planner.
+Natural Cycles is the world's first FDA cleared birth control app. It tracks your cycle with a thermometer and uses an algorithm to predict your ovulation and fertile window.
 
-My main responsibility is to scale the payments infrastructure to handle millions of transactions
+#### My role in the Product Growth Team
+My main priority is to reduce the subscription renewal failure rates from 28% to 10% by optimizing the Braintree payment integration. Additionally, I am working on improving the signup experience to boost conversion.
 
 #### I previously worked at [Heads](https://heads.com/) as a Senior Software Engineer.
 Heads builds retail software, similar to Square Pay. My responsibilities include building and maintaining the react frontend, node backend and the Heads POS iOS app.  
