@@ -2,27 +2,25 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alexander%20Selling-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexanderselling/)](https://www.linkedin.com/in/alexanderselling/) 
 
-I'm a **fullstack developer** from Stockholm, Sweden.
+I'm a **fullstack developer** living in Austin.
 
 These days, I'm mostly working with node, react, angular, dotnet core, and vue, but I have been building iOS apps since 2011.
 I love being in the intersection between technology and business strategy, which is why I've started 3 companies, each time to create something truly meaningful to others.  
 
-### I'm currently working at [Natural Cycles](https://naturalcycles.com) as a Senior Fullstack Engineer
+### I'm currently working at [ŌURA](https://ouraring.com/) as Software Engineer in the Payments Team
+The Ōura smart ring is used to track sleep, physical activity, and your menstrual cycle with the help of its 7 temperature sensors.
+
+#### I previously worked at [Natural Cycles](https://www.naturalcycles.com/) as a Senior Software Engineer in charge of Payments
 Natural Cycles is the world's first FDA Cleared birth control app. It tracks your cycle with a thermometer and uses an algorithm to predict your ovulation and fertile window.
 
-### My role in the Product Growth Team
-My primary goal is to decrease the subscription renewal failure rates by up to 18% by optimizing the Braintree payment integration. Additionally, I am working on improving the signup experience to boost conversion.
+- Completed a rewrite from Braintree to Stripe in 2 months with zero incidents
+- Increased Braintree approval rates by 5% generating $50k extra revenue per month
+- Rolled out custom automated Braintree retries, decreasing involuntary churn by 10% in Sweden
 
-#### I previously worked at [Heads](https://heads.com/) as a Senior Software Engineer.
-Heads builds retail software similar to Square Pay. My responsibilities include building and maintaining the react frontend, node backend, and the Heads POS iOS app.  
+#### [Heads](https://heads.com/) 
+Heads builds retail software similar to Square Pay. My responsibilities include building and maintaining the react frontend, node backend, and the Heads POS iOS app. 
 
-#### My main contributions to Heads
-- The company website [heads.com](https://heads.com/) (Astro)
-- The Heads Design System (React)
-- The Heads POS app (iOS)
-  
-#### Machine Learning Project
-I'm currently working on a prototype Sales Prediction Engine capable of forecasting product demand, such as Coke sales for the next two weeks, enabling data-driven re-stocking automation and optimizing inventory management.
+- I built a prototype Sales Prediction Engine capable of forecasting product demand, such as Coke sales for the next two weeks, enabling data-driven re-stocking automation and optimizing inventory management.
 
 #### [iSpect](https://ispect.se?lang=en) - enabling construction companies to gain actionable insights from their projects 👷‍♂️ 
 
