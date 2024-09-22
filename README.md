@@ -7,7 +7,7 @@ I'm a **fullstack developer** living in Austin.
 These days, I'm mostly working with node, react, angular, dotnet core, and vue, but I have been building iOS apps since 2011.
 I love being in the intersection between technology and business strategy, which is why I've started 3 companies, each time to create something truly meaningful to others.  
 
-### I'm currently working at [ŌURA](https://ouraring.com/) as Software Engineer in the Payments Team
+### I'm currently working at [ŌURA](https://ouraring.com/) as Software Engineer in the Checkout Squad
 The Ōura smart ring is used to track sleep, physical activity, and your menstrual cycle with the help of its 7 temperature sensors.
 
 #### I previously worked at [Natural Cycles](https://www.naturalcycles.com/) as a Senior Software Engineer in charge of Payments
