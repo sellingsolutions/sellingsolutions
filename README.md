@@ -14,7 +14,7 @@ The Ōura smart ring is used to track sleep, physical activity, and your menstru
 Natural Cycles is the world's first FDA Cleared birth control app. It tracks your cycle with a thermometer and uses an algorithm to predict your ovulation and fertile window.
 
 - Completed a rewrite from Braintree to Stripe in 2 months with zero incidents
-- Increased Braintree approval rates by 5% generating $50k extra revenue per month
+- Increased approval rates by 13.36%, bringing in an extra $600k / month in revenue
 - Rolled out custom automated Braintree retries, decreasing involuntary churn by 10% in Sweden
 
 #### [Heads](https://heads.com/) 
