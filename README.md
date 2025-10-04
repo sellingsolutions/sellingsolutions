@@ -7,8 +7,10 @@ I'm a **fullstack developer** living in Austin.
 These days, I'm mostly working with node, react, angular, dotnet core, and vue, but I have been building iOS apps since 2011.
 I love being in the intersection between technology and business strategy, which is why I've started 3 companies, each time to create something truly meaningful to others.  
 
-### I'm currently working at [ŌURA](https://ouraring.com/) as a Software Engineer in the Checkout Squad
+### I'm currently working at [ŌURA](https://ouraring.com/) as a Software Engineer (Fraud Prevention & Payments) in the Checkout Squad
 The Ōura smart ring is used to track sleep, physical activity, and your menstrual cycle with the help of its 7 temperature sensors.
+
+– Reduced false positive fraud declines by 1.3%, recovering approximately $11K in lost revenue per day
 
 #### [Natural Cycles](https://www.naturalcycles.com/) - Senior Software Engineer / Payments Lead
 Natural Cycles is the world's first FDA Cleared birth control app. It tracks your cycle with a thermometer and uses an algorithm to predict your ovulation and fertile window.
