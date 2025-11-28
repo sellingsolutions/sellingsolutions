@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alexander%20Selling-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexanderselling/)](https://www.linkedin.com/in/alexanderselling/) 
 
-I'm a **fullstack developer** living in Austin.
+I'm a **Software Engineer** living in Austin.
 
 These days, I'm mostly working with node, react, angular, dotnet core, and vue, but I have been building iOS apps since 2011.
 I love being in the intersection between technology and business strategy, which is why I've started 3 companies, each time to create something truly meaningful to others.  
@@ -11,6 +11,7 @@ I love being in the intersection between technology and business strategy, which
 The Ōura smart ring is used to track sleep, physical activity, and your menstrual cycle with the help of its 7 temperature sensors.
 
 – Reduced false positive fraud declines by 1.3%, recovering approximately $11K in lost revenue per day
+- Implemented step-up auth for fraud blocked users, recovering $2M in revenue in 4 months
 
 #### [Natural Cycles](https://www.naturalcycles.com/) - Senior Software Engineer / Payments Lead
 Natural Cycles is the world's first FDA Cleared birth control app. It tracks your cycle with a thermometer and uses an algorithm to predict your ovulation and fertile window.
