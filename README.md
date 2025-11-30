@@ -10,7 +10,7 @@ I love being in the intersection between technology and business strategy, which
 ### I'm currently working at [ŌURA](https://ouraring.com/) as the Fraud Prevention & Payments lead in the Checkout Squad
 The Ōura smart ring is used to track sleep, physical activity, and your menstrual cycle with the help of its 7 temperature sensors.
 
-- Implemented step-up auth for fraud blocked users, recovering $2M in revenue in 4 months
+- Implemented step-up auth for fraud blocked users, recovering $3M in revenue in 4 months
 - Reduced false positive fraud declines by 1.3%, recovering approximately $11K in lost revenue per day
 
 #### [Natural Cycles](https://www.naturalcycles.com/) - Senior Software Engineer / Payments Lead
