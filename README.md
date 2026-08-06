@@ -2,12 +2,12 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alexander%20Selling-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexanderselling/)](https://www.linkedin.com/in/alexanderselling/) 
 
-I'm a **Software Engineer** living in Austin.
+I'm a **Senior Software Engineer** living in Austin.
 
 These days, I'm mostly working with node, react, angular, dotnet core, and vue, but I have been building iOS apps since 2011.
 I love being in the intersection between technology and business strategy, which is why I've started 3 companies, each time to create something truly meaningful to others.  
 
-### I'm currently working at [ŌURA](https://ouraring.com/) as the Fraud Prevention & Payments lead in the Checkout Squad
+### I'm currently working at [ŌURA](https://ouraring.com/) as the Fraud Prevention & Payments lead in the Payment Squad
 The Ōura smart ring is used to track sleep, physical activity, and your menstrual cycle with the help of its 7 temperature sensors.
 
 - Implemented step-up auth for fraud blocked users, recovering $3M in revenue in 4 months
